@@ -37,7 +37,6 @@ Este proyecto se lleva a cabo de manera colaborativa por un equipo compuesto por
 
 |Nombre y Apellido|GitHub|LinkedIn|
 ----|----|----
-Romina Herrera|https://github.com/Romherre|https://www.linkedin.com/in/romina-herreramicv/|
 Leonardo Farran|https://github.com/Leo-Farran|https://www.linkedin.com/in/leonardo-cesar-farran|
 Tomas Lencina |https://github.com/TomiLencina| https://www.linkedin.com/in/tomas-lencina
 Mariana Florencia Morisse Rodriguez|https://github.com/florenciamorisse|https://www.linkedin.com/in/mariana-florencia-morisse-rodriguez/|
