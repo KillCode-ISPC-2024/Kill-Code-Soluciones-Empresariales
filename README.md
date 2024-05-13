@@ -8,7 +8,7 @@ Somos un grupo de estudiantes del último cuatrimestre de la tecnicatura en prog
 
 Este proyecto representa un hito significativo en nuestro camino educativo y profesional. Durante nuestra formación, hemos adquirido conocimientos en diversas áreas, desde el desarrollo web con frameworks como Angular, hasta la creación de aplicaciones móviles en plataformas Android. La fusión de estos dos proyectos nos brinda la oportunidad de aplicar y consolidar nuestros conocimientos, así como de explorar nuevas tecnologías y enfoques de desarrollo.  
 
-## Problemas que Soluciona
+## Problemas que Solucionar
 
 La iniciativa de integrar proyectos nos permite ofrecer una plataforma centralizada para comercializar múltiples soluciones en un solo lugar. Esto abarca desde herramientas para la gestión de procesos y control de inventarios hasta la venta de software especializado dirigido a empresas, como es el caso de Order Tablet, un software diseñado específicamente para el sector gastronómico. Todo esto desde el carrito de compras.  
 
